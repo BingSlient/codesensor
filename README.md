@@ -1,5 +1,5 @@
 # codesensor
-ANTLR 3 based fuzzy parser for generating c++ code base AST
+ANTLR 3 based fuzzy parser for generating `Abstract Syntax Tree(AST)` for c++ code base 
 
 # Installation
 To build CodeSensor, download ANTLR from
