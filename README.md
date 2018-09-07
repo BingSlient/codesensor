@@ -1,5 +1,5 @@
 # codesensor
-ANTLR 3 fuzzy based parser for generating c++ code base AST
+ANTLR 3 based fuzzy parser for generating c++ code base AST
 
 # Installation
 To build CodeSensor, download ANTLR from
